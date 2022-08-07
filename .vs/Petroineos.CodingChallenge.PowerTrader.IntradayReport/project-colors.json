@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89d9314d-f35e-48cb-bdb2-aedc03f03f83": {
+      "ProjectGuid": "89d9314d-f35e-48cb-bdb2-aedc03f03f83",
+      "DisplayName": "Petroineos.CodingChallenge.PowerTrader.IntradayReport",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24b2e523-df4f-40d7-874d-aefc2d1bc2cb": {
+      "ProjectGuid": "24b2e523-df4f-40d7-874d-aefc2d1bc2cb",
+      "DisplayName": "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest",
+      "ColorIndex": 1
+    },
+    "49d729ed-e497-4294-95fa-fd4f3bf4b5a5": {
+      "ProjectGuid": "49d729ed-e497-4294-95fa-fd4f3bf4b5a5",
+      "DisplayName": "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest",
+      "ColorIndex": 2
+    },
+    "8890bccc-82c7-48b9-aed3-487d1ab1ab15": {
+      "ProjectGuid": "8890bccc-82c7-48b9-aed3-487d1ab1ab15",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

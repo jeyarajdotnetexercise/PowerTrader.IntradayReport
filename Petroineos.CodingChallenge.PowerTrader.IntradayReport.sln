@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport", "Petroineos.CodingChallenge.PowerTrader.IntradayReport\Petroineos.CodingChallenge.PowerTrader.IntradayReport.csproj", "{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest", "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest.csproj", "{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8890BCCC-82C7-48B9-AED3-487D1AB1AB15}"
+	ProjectSection(SolutionItems) = preProject
+		Petroineos.CodingChallenge.PowerTrader.IntradayReport\Readme.txt = Petroineos.CodingChallenge.PowerTrader.IntradayReport\Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3796C6D1-1A45-47F5-88CA-689134E9CC63}
+	EndGlobalSection
+EndGlobal
