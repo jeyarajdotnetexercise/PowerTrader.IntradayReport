@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest", "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest.csproj", "{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8890BCCC-82C7-48B9-AED3-487D1AB1AB15}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1848ABAC-366C-453A-B4A7-8F5DE3F0A282}"
 	ProjectSection(SolutionItems) = preProject
-		Petroineos.CodingChallenge.PowerTrader.IntradayReport\Readme.txt = Petroineos.CodingChallenge.PowerTrader.IntradayReport\Readme.txt
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Global
