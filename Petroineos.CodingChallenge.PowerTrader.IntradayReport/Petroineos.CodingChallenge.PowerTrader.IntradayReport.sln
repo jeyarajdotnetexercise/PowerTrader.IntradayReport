@@ -5,7 +5,12 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport", "Petroineos.CodingChallenge.PowerTrader.IntradayReport.csproj", "{89D9314D-F35E-48CB-BDB2-AEDC03F03F83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest", "..\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest.csproj", "{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest", "..\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest\Petroineos.CodingChallenge.PowerTrader.IntradayReport.Unitest.csproj", "{49D729ED-E497-4294-95FA-FD4F3BF4B5A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1848ABAC-366C-453A-B4A7-8F5DE3F0A282}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
